@@ -1,6 +1,14 @@
 import React from "react";
 
+import Header from './components/Header';
+import TodoItem from './components/TodoItem';
+
 const App = () => {
-  return <p>Todoie App</p>
+  return (
+    <div>
+      <Header/>
+      <TodoItem/>
+    </div>
+  );
 };
 export default App;
