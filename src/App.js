@@ -10,6 +10,10 @@ const App = () => {
     <div ClassName="todo-container">
       <Header/>
       <TodoItem/>
+      <TodoItem/>
+      <TodoItem/>
+      <TodoItem/>
+      <TodoItem/>
       <Button/>
     </div>
   );

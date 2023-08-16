@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Button = () => {
-    return <button>Add Todo</button>
+    return <button ClassName="todo-btn" >Add Todo</button>
 
 };
 export default Button;
