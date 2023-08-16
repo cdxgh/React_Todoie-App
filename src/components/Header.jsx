@@ -1,7 +1,7 @@
-import React from 'react';
+import React  from "react";
 
 function Header() {
-    return <h1 ClassName='todo-Header'>Todo</h1>;
+    return <h1 className='todo-Header'>Todo</h1>;
 
 }
 
